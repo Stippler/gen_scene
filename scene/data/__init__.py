@@ -1,0 +1,1 @@
+from scene.data.nyuv2 import NYUv2

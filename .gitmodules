@@ -1,0 +1,6 @@
+[submodule "extern/Metric3D"]
+	path = extern/Metric3D
+	url = https://github.com/YvanYin/Metric3D
+[submodule "extern/droid_metric"]
+	path = extern/droid_metric
+	url = https://github.com/Jianxff/droid_metric

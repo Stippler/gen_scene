@@ -1,5 +1,5 @@
 import torch
-from scene.data import NYUv2
+from gen_scene.data import NYUv2
 from torchvision import transforms
 import matplotlib.pyplot as plt
 import numpy as np
